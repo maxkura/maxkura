@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hello there, I'm Maxkura, Puming Feng👋
+
+
+## About me
+I am an undergraduate student majoring in **Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**.
+
+## Research Interest
+- LLM
+
+- Multimodal Data (MRI)
+
+## Publications & Presentations
+-
+
+
+
+## Interests & Hobbies
+- Long-distance running
+- Diving & Skating
+- Go Game
+
+
 
 <!--
 **maxkura/maxkura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
