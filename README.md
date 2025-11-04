@@ -7,10 +7,9 @@ I am an undergraduate student majoring in **Information Engineering** at the **U
 ## Research Interest
 - LLM
 
-- Multimodal Data (MRI)
-
+- Multimodal Data (MRI)  https://arxiv.org/pdf/2510.24770
 ## Publications & Presentations
--
+-https://arxiv.org/pdf/2510.24770
 
 
 
