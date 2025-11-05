@@ -9,7 +9,9 @@ I am an undergraduate student majoring in **Information Engineering** at the **U
 
 - Multimodal Data (MRI)  https://arxiv.org/pdf/2510.24770
 ## Publications & Presentations
--https://arxiv.org/pdf/2510.24770
+-DMVFC: DEEP LEARNING BASED FUNCTIONALLY CONSISTENT
+ TRACTOGRAPHY FIBER CLUSTERING USING MULTIMODAL
+ DIFFUSION MRI AND FUNCTIONAL MRI https://arxiv.org/pdf/2510.24770
 
 
 
