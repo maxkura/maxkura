@@ -2,7 +2,12 @@
 
 
 ## About me
-I am an undergraduate student majoring in **Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**.
+I am an undergraduate student majoring in **Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**
+
+## Email
+
+- maxkura007@foxmail.com
+- 2023050902015@std.uestc.edu.cn
 
 ## Research Interest
 - LLM
