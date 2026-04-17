@@ -10,9 +10,12 @@ I am an undergraduate student majoring in **Information Engineering** at the **U
 - 2023050902015@std.uestc.edu.cn
 
 ## Research Interest
-- LLM
+- LLM&VLM&VLA
 
 - Multimodal Data (MRI)  https://arxiv.org/pdf/2510.24770
+
+- Agent
+  
 ## Publications & Presentations
 -DMVFC: DEEP LEARNING BASED FUNCTIONALLY CONSISTENT
  TRACTOGRAPHY FIBER CLUSTERING USING MULTIMODAL
