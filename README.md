@@ -4,6 +4,9 @@
 ## About me
 I am an undergraduate student majoring in **Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**
 
+## Life Goal
+To be a monk who wields the blade, and a scholar who commands heavy artillery. Grounded in reality, committed to making meaningful and valuable impact on the world — whether through technology or business.
+
 ## Email
 
 - maxkura007@foxmail.com
@@ -22,6 +25,8 @@ I am an undergraduate student majoring in **Information Engineering** at the **U
  DIFFUSION MRI AND FUNCTIONAL MRI 
 
  published on IEEE JSTSP(JCR Q1)https://ieeexplore.ieee.org/document/11248838
+
+-A paper on MLLM OCR is currently under review.
 
 
 
