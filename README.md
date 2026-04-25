@@ -19,7 +19,9 @@ I am an undergraduate student majoring in **Information Engineering** at the **U
 ## Publications & Presentations
 -DMVFC: DEEP LEARNING BASED FUNCTIONALLY CONSISTENT
  TRACTOGRAPHY FIBER CLUSTERING USING MULTIMODAL
- DIFFUSION MRI AND FUNCTIONAL MRI https://arxiv.org/pdf/2510.24770
+ DIFFUSION MRI AND FUNCTIONAL MRI 
+
+ published on IEEE JSTSP(JCR Q1)https://ieeexplore.ieee.org/document/11248838
 
 
 
