@@ -19,7 +19,7 @@ To be a monk who wields the blade, and a scholar who commands heavy artillery. G
 
 - Agent
   
-## Publications & Presentations
+## Publications & Project
 -DMVFC: DEEP LEARNING BASED FUNCTIONALLY CONSISTENT
  TRACTOGRAPHY FIBER CLUSTERING USING MULTIMODAL
  DIFFUSION MRI AND FUNCTIONAL MRI 
@@ -27,6 +27,10 @@ To be a monk who wields the blade, and a scholar who commands heavy artillery. G
  published on IEEE JSTSP(JCR Q1)https://ieeexplore.ieee.org/document/11248838
 
 -A paper on MLLM OCR is currently under review.
+
+-Ask_Why 
+A skill helps users think deeper, ask better questions, and turn vague ideas into clear, actionable solutions.
+https://github.com/maxkura/Ask_Why
 
 
 
